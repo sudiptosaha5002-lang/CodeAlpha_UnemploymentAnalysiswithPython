@@ -1,7 +1,9 @@
 # 📊 Unemployment Analysis in India (COVID-19 Impact)
 
+-> **NOTE**: This repository contains the Task 2 project completed during my Data Science Internship at @CodeAlpha
+
 ## 🎯 Objective
-This project analyzes India's unemployment rate, with a focus on the economic shock caused by the COVID-19 pandemic. The data pipeline involves cleaning, exploratory data analysis (EDA), and interactive visualization using Python.
+This project analyzes India's unemployment rate, focusing on the economic shock caused by the COVID-19 pandemic. The data pipeline involves cleaning, exploratory data analysis (EDA), and interactive visualization using Python.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
